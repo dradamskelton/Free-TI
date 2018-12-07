@@ -1,7 +1,7 @@
 import numpy as np
 import MDAnalysis
 from numpy.linalg import norm
-
+print "now"
 cell = [21.6209, 21.6209, 21.6209]
 delr = 360.0/1000.0
 that=np.zeros((100,100))
